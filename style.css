@@ -1,0 +1,179 @@
+body {
+    background-color: #EAF2EF;
+    color: #670032;
+  }
+
+
+.title {
+    text-align: left;
+    margin-top: 3vh;
+    font-size: 48px;
+    color: #A50050;
+}
+
+.sub-title {
+    text-align: left;
+    color: #A50050;
+}
+
+.bg-image {
+    background-size: cover;
+    background-position: center center;
+}
+
+h2 {
+    font-size: 30px;
+    text-indent: 2vh;
+    text-align: center;
+}
+
+h3 {
+    font-size: 14px;
+    /* text-indent: 2vh; */
+    text-align: center;
+}
+
+.navbar-nav .nav-item .nav-link {
+    padding: 0.8em 1.6em; 
+    color:#000000;
+    border-radius: 0.5em; 
+    margin-right: 1em;
+    white-space: nowrap;
+}
+
+.row {
+    justify-content: left;
+    text-align: left;
+}
+
+.navbar-nav .nav-link.btn-primary {
+    background-color: #A50050; 
+    border-color: #A50050; 
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    color:#EAF2EF;
+
+}
+  
+.navbar-nav .nav-item .nav-link:hover {
+    background-color: #7689C0; 
+    color: #EAF2EF;
+}
+
+.navbar-nav .nav-item .nav-link:focus {
+    background-color: #ffcb2e; 
+    color: #EAF2EF;
+}
+
+.nav-item .nav-link:active {
+    background-color: #A50050;
+    color: #EAF2EF;
+}
+
+
+.thingstodo {
+    line-height: 3em;
+}
+
+
+.AlteBruecke {
+    width: 100%;
+    height: auto;
+}
+
+.AlteBrueckeItem {
+    list-style: none;
+}
+
+.CastleItem {
+    list-style: none;
+}
+
+.Castle {
+    width: 100%;
+    height: auto;
+}
+
+.BarrelItem {
+    list-style: none;
+}
+
+.Barrel {
+    width: 100%;
+    height: auto;
+}
+
+.PhilosophenWegItem {
+   list-style: none;
+}
+
+.PhilosophenWeg {
+    width: 100%;
+    height: auto;
+}
+
+.ZooItem {
+    list-style: none;
+}
+
+.Zoo {
+    width: 100%;
+    height: auto;
+}
+
+.HauptstraßeItem {
+    list-style: none;
+}
+
+.Hauptstraße {
+    width: 100%;
+    height: auto;
+    /* align-items: center; */
+}
+
+.footercenter{
+    display: flex;
+    background-color: #A50050;
+    margin-top: 5vh;
+    padding: 2vh;
+    width: 100%;
+    color: #EAF2EF;
+    font-style: italic;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.bolded {
+    font-weight: bold;
+}
+
+.todolist {
+    font-size: 28px;
+    list-style: none;
+}
+
+.sublistitem {
+    list-style: circle;
+    margin-left: 3vh;
+}
+
+.listoftips {
+    line-height: 3em;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+.image-container {
+    position: relative;
+    max-width: 100%;
+}
+
+.resized-image {
+    width: 100%;
+    height: auto; 
+    /* margin-left: 5vh;
+    margin-right: 5vh; */
+}
